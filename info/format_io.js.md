@@ -1,3 +1,3 @@
 **Input:** Two arrays
 
-**Output:** array - combination of two
+**Output:** Array - combination of two

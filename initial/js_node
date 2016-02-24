@@ -1,7 +1,7 @@
 "use strict";
 
-function listCombination(elements, rotates) {
-    return elements;
+function listCombination(arr1, arr2) {
+    return arr1;
 }
 
 var assert = require('assert');

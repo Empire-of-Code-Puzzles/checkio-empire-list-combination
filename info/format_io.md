@@ -1,3 +1,3 @@
 **Input:** Two lists
 
-**Output:** list - combination of two
+**Output:** List - combination of two
